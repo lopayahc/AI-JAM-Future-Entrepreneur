@@ -1,8 +1,8 @@
 # AI-JAM-Future-Entrepreneur
 
-##โปรเจคที่จัดทำขึ้นเพื่อเข้าร่วมการแข่งขัน AI JAM : Future-Entrepreneur ที่มหาวิทยาลัยศรีปทุม
+--โปรเจคที่จัดทำขึ้นเพื่อเข้าร่วมการแข่งขัน AI JAM : Future-Entrepreneur ที่มหาวิทยาลัยศรีปทุม--
 
-###ได้รับรางวัลรองชนะเลิศอันดับที่ 2
+###ได้รับรางวัลรองชนะเลิศอันดับที่ 2###
 
 การทำ Figma
 https://www.figma.com/design/Zk4s5vLoPuuX55EPuML04X/FleshFlow?node-id=0-1&t=u4MI1II7ynlQMpS8-1
